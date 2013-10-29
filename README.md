@@ -1,2 +1,3 @@
 site
 ====
+mkdir ~/site
